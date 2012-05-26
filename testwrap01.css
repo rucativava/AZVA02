@@ -1,0 +1,7 @@
+#slideshow-container {
+	float: left;
+}
+
+#thumbs li {
+	display: inline-block;
+}

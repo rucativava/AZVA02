@@ -1,0 +1,20 @@
+ul.thumbswcaption a:hover:after,
+ul.thumbswcaption a:focus:after,
+.try1 {
+	content:attr(caption);
+	color: black;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding-right: 10px;
+	padding-top: 2px;
+	width: auto;
+	background: white;
+	line-height: 1.1em;
+	font-size: .7em;
+	z-index: 1899;
+
+	margin-left: 5px;
+	display: inline-block;
+
+}
